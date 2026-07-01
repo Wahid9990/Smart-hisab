@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hisab",
+  "description": "Smart ledger and accounting app with secure Firebase Authentication and real-time cloud-backed user profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

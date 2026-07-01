@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799065460731",
+    "project_id": "smart-hisab-62ef7",
+    "storage_bucket": "smart-hisab-62ef7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799065460731:android:b5f69cafe383c7235d855e",
+        "android_client_info": {
+          "package_name": "com.smarthisab.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsNA4zgvrEC5rgXvEm-dEKGOC_jd8ObQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
